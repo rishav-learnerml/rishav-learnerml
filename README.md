@@ -16,7 +16,7 @@ From developing projects to doing research-works and by solving problems I'm upg
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/rishav-chatterjee-384505173/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rishav | LinkedIn" width="21px"/></a>
-<a href="mailto:crishav01@gmail.com"><img align="left" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Rishav | Mail" width="21px"/></a>
+<a href="mailto:crishav01@gmail.com"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Rishav | Mail" width="21px"/></a>
 <a href="https://www.codechef.com/users/rishav_learner/"><img align="left" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="Rishav | Codechef" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
