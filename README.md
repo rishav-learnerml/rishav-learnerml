@@ -60,3 +60,9 @@ From developing projects to doing research-works and by solving problems I'm upg
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+## 📈 GitHub Stats 
+
+[![Rishav's github stats](https://github-readme-stats.vercel.app/api?username=rishav-learnerml)](https://github.com/rishav-learnerml)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-learnerml&layout=compact)](https://github.com/rishav-learnerml)
