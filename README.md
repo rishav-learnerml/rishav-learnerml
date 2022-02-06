@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rishav-learnerml.github.io/rishav-chatterjee-resume2022/" target="_blank" rel="noreferrer"><img src="https://drive.google.com/file/d/1tbzyWhTogdHC7PxITZrPJhIbEC9dsN7c/view?usp=sharing" alt="my banner"></a>
+  <a href="https://rishav-learnerml.github.io/rishav-chatterjee-resume2022/" target="_blank" rel="noreferrer"><img src="![RISHAV CHATTERJEE](https://user-images.githubusercontent.com/62733926/152688091-9ad97e56-17a0-416c-bb32-361d1efabc6f.png)" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -17,7 +17,7 @@ From developing projects to doing research-works and by solving problems I'm upg
 
 <a href="https://www.linkedin.com/in/rishav-chatterjee-384505173/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rishav | LinkedIn" width="21px"/></a>
 <a href="mailto:crishav01@gmail.com"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Rishav | Mail" width="21px"/></a>
-<a href="https://www.codechef.com/users/rishav_learner/"><img align="left" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="Rishav | Codechef" width="21px"/></a>
+<a href="https://www.codechef.com/users/rishav_learner/"><img align="left" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Rishav | Codechef" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
