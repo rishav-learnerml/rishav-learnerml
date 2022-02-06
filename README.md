@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/rishav-chatterjee-384505173/"
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Software Engineer 🤵, Competitive Programmer 🎮 and a Machine Learning Enthhusiast 🤖!
+I'm a Full-Stack Developer 💻, Software Engineer 🤵, Competitive Programmer 🎮 and a Machine Learning Enthhusiast 🤖!
 </h2> 
 
 From developing projects to doing research-works and by solving problems I'm upgrading myself each day to get better than yesterday. I would be eager to work in any field, not limited to the ones listed above, and I would consider it worthwhile to take up projects out of my comfort zone in an environment that would foster learning at an even pace. 
