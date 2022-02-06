@@ -67,4 +67,4 @@ From developing projects to doing research-works and by solving problems I'm upg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-learnerml&layout=compact)](https://github.com/rishav-learnerml)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rishav-learnerml.rishav-learnerml)](https://rishav-learnerml.github.io/rishav-chatterjee-resume2022/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rishav-learnerml.rishav-learnerml)](https://rishav-learnerml.github.io/rishav-chatterjee-resume2022/) 
