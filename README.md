@@ -21,6 +21,13 @@ From developing projects to doing research-works and by solving problems I'm upg
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 🥇 My Achievements
+
+- Global Rank 9 in Codechef February Long Challenge 2021 (Coding Contest)
+- Global Rank 83 in Codechef January Long Challenge 2021 (Coding Contest)
+- Coding Ninjas Ninja Hire 2.0 Finalist (Coding Contest) 
+- University Topper in 6th and 7th Sem Exam
+
 ## 🔭 I'm currently working on
 
 - My old projects
@@ -36,6 +43,7 @@ From developing projects to doing research-works and by solving problems I'm upg
 - React Context API
 - Styled Components  
 - Machine Learning Algorithms
+
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
