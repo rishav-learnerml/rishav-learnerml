@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://rishav-learnerml.github.io/rishav-chatterjee-resume2022/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62733926/152688340-4a33a892-976a-4434-873a-e81cf9c96e57.png" height="400px" alt="my banner"></a>
+  <a href="https://rishav-learnerml.github.io/rishav-chatterjee-resume2022/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62733926/152688396-bbdec89c-40d4-4738-b1de-3b4f15694f4d.png" height="400px" alt="my banner"></a>
 </p>
 
 <h3 align="center">
