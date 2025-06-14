@@ -1,6 +1,13 @@
 <p align="center">
   <a href="https://rishav.site" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/62733926/152688396-bbdec89c-40d4-4738-b1de-3b4f15694f4d.png" alt="Rishav Chatterjee" width="100%" />
+    <iframe 
+      src="https://www.canva.com/design/DAE3lr8XbCg/watch?embed" 
+      width="100%" 
+      height="400px" 
+      style="border: none;" 
+      allowfullscreen 
+      loading="lazy">
+    </iframe>
   </a>
 </p>
 
